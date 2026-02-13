@@ -1,11 +1,11 @@
 // 1. CONFIGURATION - Match these exactly to your filenames!
-const successImg = "IMAGES/P yes.png"; 
+const successImg = "P yes.png"; 
 
 const noImages = [
-    "IMAGES/p.png", 
-    "IMAGES/p2.png", 
-    "IMAGES/p4.png", 
-    "IMAGES/p3.png"
+    "p.png", 
+    "p2.png", 
+    "p4.png", 
+    "p3.png"
 ];
 
 const noTexts = [
@@ -70,4 +70,5 @@ if (folderBtn) {
     folderBtn.addEventListener("click", () => {
         window.location.href = "folders.html";
     });
+
 }
