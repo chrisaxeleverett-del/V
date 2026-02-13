@@ -6,7 +6,7 @@ const noImages = [
     "p2.png", 
     "p4.png", 
     "p3.png"
-];
+]; 
 
 const noTexts = [
     "Are you sure? 🥺",
@@ -72,3 +72,4 @@ if (folderBtn) {
     });
 
 }
+
